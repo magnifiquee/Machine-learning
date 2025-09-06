@@ -1,5 +1,5 @@
 # Machine-learning
 
-🔥 Models with 91% accuracy were obtained for binary classification.
+🔥 Achieved 91% accuracy in binary classification using Gradient Boosting Machine (GBM).
 
-In this project, machine learning algorithms were applied to a dataset of AIDS patients after data pre-processing and cleaning. 
+In this project, machine learning algorithms including KNN, SVM, Decision Tree, Logistic Regression, and GBM were applied to a dataset of AIDS patients after thorough data cleaning and preprocessing.
